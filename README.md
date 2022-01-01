@@ -1,2 +1,2 @@
 # Comedian-Analysis
-Via this project I've tried to analyse different comedians using various EDA techniques.
+Via this project I've tried to analyse different comedians around the world using various EDA techniques.
